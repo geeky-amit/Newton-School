@@ -1,2 +1,0 @@
-# Newton-School
-Projects
